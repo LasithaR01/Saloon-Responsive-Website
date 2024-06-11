@@ -405,7 +405,10 @@ body {
   #SERVICE
 \*-----------------------------------*/
 
-.service { text-align: center; }
+.service { 
+  text-align: center;
+  background-size: cover;
+ }
 
 .service .section-text { margin-block: 15px 55px; }
 
